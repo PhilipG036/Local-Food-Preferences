@@ -1,4 +1,4 @@
-Abstract
+Abstract: 
 Food is the basic essential factor for living thing. The user have to be comforted with the information of food items in different locations. One has to be known with the information regrading the availability of different food items. Our problem statement is to provide the user choice of locations and display the list of food items of the selected location. It helps the user with the availabe food items along with their nutritional values such as carbohydrates, proteins, fats etc.It also displays the type of the food item that is breakfast, lunch, dinner. The user is free to choose the location that user wanted to know about in regards of the food item,, its tyoe and nutritional values.
 
 Tools Used: Flask, pandas, numpy
