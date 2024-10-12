@@ -22,7 +22,11 @@ The input which has been given by the user will be taken and used for further an
 After the data analysis as completed in the second phase the information will used to display the list of the local food items that the user as provided as input. The list of the local food items consists of the type of the food item, nutritional values, etc. The local food items are displayed in the of a list so that ot can be analysed or used by the user easily. It can be further used in the nutritional analysis which makes it more realible.
 
 Output:
+
+
 ![o1](https://github.com/user-attachments/assets/13898f5e-ad1f-4b20-a7eb-38a53d3529cb)
+
+
 ![o2](https://github.com/user-attachments/assets/705d35bf-2559-4f5e-b6a0-1e3937ed21e9)
 
 
